@@ -1,0 +1,5 @@
+﻿  Networking.cpp
+c:\users\kristimm\documents\github\netwokringwithjonatan\networking\networking.cpp(13): error C3861: 'Connect': identifier not found
+c:\users\kristimm\documents\github\netwokringwithjonatan\networking\networking.cpp(15): error C2065: 'Packet': undeclared identifier
+c:\users\kristimm\documents\github\netwokringwithjonatan\networking\networking.cpp(15): error C2146: syntax error: missing ';' before identifier 'packet'
+c:\users\kristimm\documents\github\netwokringwithjonatan\networking\networking.cpp(15): error C2065: 'packet': undeclared identifier
